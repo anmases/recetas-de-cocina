@@ -1,0 +1,23 @@
+body{
+    font: Verdana;
+}
+img{
+    width: 300px;
+    height: 225px;
+}
+h1{
+    color: #333;
+    font-size: 20px;
+}
+h2{
+    color: #666;
+    font-size: 16px;
+}
+p, ul, ol{
+    color: #000;
+    font-size: 12px;
+}
+a{
+    color: blue;
+    font-size: 12px;
+}
